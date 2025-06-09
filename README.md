@@ -3,7 +3,7 @@
 <p>I'm from Argentina, I'm a Full Stack Developer with a solid foundation in system analysis and a strong focus on backend development. Passionate about solving real-world problems with scalable and secure solutions.</p>
 
 - **Full Stack Developer** specialized in back-end systems and API architecture  
-- **Lifelong learner** and passionate about technology, product scalability, and clean code  
+- Passionate about gaming/technology. 
 - **Contact me**: fedeealvarez97@gmail.com 
 
 ---
