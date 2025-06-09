@@ -38,8 +38,7 @@ Each restaurant has its own admin panel for managing products, orders, staff, re
 <p> I am seeking a challenging opportunity where I can leverage my technical expertise, creativity, and passion for software development to enhance your organization's digital presence and deliver impactful user experiences. </p>
 ---
 
-<h3>📬 Let's connect</h3>
+<h3>📬 Contact Me</h3>
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/federico-alvarez97/)  
-- 💌 fedeealvarez97@gmail.com  
-- 🧠 [GitHub](https://github.com/Fecho-A)  
+- 💌 fedeealvarez97@gmail.com
