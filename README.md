@@ -1,11 +1,6 @@
 <H1> Hey there! I'm Federico Alvarez 👋</H1>
 
-<p>I'm from Argentina, I'm a Full Stack Developer with a solid foundation in system analysis and a strong focus on backend development. Passionate about solving real-world problems with scalable and secure solutions.</p>
-
-- **Full Stack Developer** specialized in back-end systems and API architecture  
-- Passionate about gaming/technology. 
-- **Contact me**: fedeealvarez97@gmail.com 
-
+<p>I'm from Argentina, I'm a Full-Stack Developer focused on backend development.Skilled in both front-end and back-end technologies to create scalable, efficient digital solutions.Proficient in modern frameworks, cloud technologies, and database management. Experienced in leading and managing small, medium and large teams. Fluent in Spanish and English, with a collaborative and innovative mindset that drives project success. Seeking a challenging opportunity to apply technical expertise, creativity, and passion for software development to enhance digital presence and deliver impactful user experiences.</p>
 ---
 
 <h3>🧰 Tech & Tools</h3>
@@ -38,7 +33,6 @@ Each restaurant has its own admin panel for managing products, orders, staff, re
 <p> I am seeking a challenging opportunity where I can leverage my technical expertise, creativity, and passion for software development to enhance your organization's digital presence and deliver impactful user experiences. </p>
 ---
 
-<h3>📬 Other Socials </h3>
-
+<h3>📬 Contact Me </h3>
 - 🔗 [LinkedIn](https://www.linkedin.com/in/federico-alvarez97/)  
 - 💌 fedeealvarez97@gmail.com
